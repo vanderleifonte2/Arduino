@@ -1,7 +1,7 @@
-#Arduino
-1. Teste de Motor
-- Obs: Só usar para teste
-- veja o codigo especificado acima
-- ligue o preto do motor ao gnd(terra) do Arduino
-- ligue o vermelho do motor ao pino analogico 3(~3) do Arduino
+# Motor
+### Passos para simular:
+- Acesse o tinkercad. [clique aqui](http://www.tinkercad.com)
+- Repita o esquema da imagem no tinkercad
+- na area de codigo cole o codigo .ino
+- clique em iniciar simulação
 
